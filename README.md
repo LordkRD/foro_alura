@@ -1,4 +1,7 @@
 ## Foro Alura
+
+
+
 ## Descripcion
 Es un proyecto de desafio del Foro Alura con Java y Spring
 ## Tecnologias utilizadas
@@ -12,4 +15,4 @@ Es un proyecto de desafio del Foro Alura con Java y Spring
 
 --Token JWT
 
--- Imsomnia -- para las pruevas de los endpoint
+-- Imsomnia * para las pruevas de los endpoint*
